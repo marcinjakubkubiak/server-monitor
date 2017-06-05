@@ -1,0 +1,26 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    mail (2.6.5)
+      mime-types (>= 1.16, < 4)
+    mime-types (3.1)
+      mime-types-data (~> 3.2015)
+    mime-types-data (3.2016.0521)
+    net-ping (2.0.1)
+    slack-notifier (2.2.1)
+    vmstat (2.3.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  mail (~> 2.6, >= 2.6.5)
+  net-ping (~> 2.0, >= 2.0.1)
+  slack-notifier (~> 2.2, >= 2.2.1)
+  vmstat (~> 2.3)
+
+RUBY VERSION
+   ruby 2.3.0p0
+
+BUNDLED WITH
+   1.14.5

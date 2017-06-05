@@ -1,0 +1,17 @@
+values:
+  pings:
+    first: 8.8.8.8
+    second: 1.2.1.1
+  free_memory:
+    first: 256
+    second: 100000000
+  free_space:
+    /tmp: 64
+    /var/mysql: 1024
+  users:
+    first: omg@allani.pl
+    second: ala@allani.pl
+    third: kot@allani.pl
+  slack:
+    webhook_url: "https://hooks.slack.com/services/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"
+    channel: "#errors"
